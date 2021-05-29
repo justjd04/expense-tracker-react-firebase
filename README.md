@@ -2,6 +2,49 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<!--
+src
+>App.js  -import App.css,Main
+>App.cs
+>components
+ >Main.js  -import React,{Component},Main.css,fire,Login,Register,Tracker,Spinner
+ >Main.css
+ >Forms
+  >Login.js  -import React,{Component},Login.css,fire
+  >Login.css
+  >Register.js  -import React,{Component},fire, Login.css
+ >Tracker
+  >Tracker.js  -import React,{Component},fire,Tracker.css,Transaction
+  >Tracker.css
+  >Transaction
+   >Transaction.js  -import React,
+>config
+ >Fire.js  -import firebase
+
+
+*Firebase*
+->npm install firebase react-firebase-hooks
+->firebase.google.com
+->(make sure logged in)go to console
+->Add project
+->Project Settings
+->register web app
+->Copy web app's firebase config
+->Go to Authentication
+->Get started
+->Email/password
+->Enable Allow user to sign up
+->Save
+
+->Database
+->Create Database
+->start in testmode
+
+>login and register fire done
+
+>Realtime Database
+-->
+
 ## Available Scripts
 
 In the project directory, you can run:
